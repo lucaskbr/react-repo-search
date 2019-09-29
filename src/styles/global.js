@@ -14,7 +14,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #7159c1;
+    background: linear-gradient(0deg, rgba(34,34,34,1) 0%, rgba(113,89,193,1) 55%);
   }
 
   body, input, button {
