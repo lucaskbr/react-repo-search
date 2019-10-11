@@ -25,9 +25,7 @@ yarn start
 
 
 
-## Author
-
-:eyeglasses: **Lucas Klasa**
+## :eyeglasses: Author
 
 * Github: [@lucaskbr](https://github.com/lucaskbr)
 * Linkedin: [@lucaskbr](https://www.linkedin.com/in/lucas-klasa-13891414b/)
