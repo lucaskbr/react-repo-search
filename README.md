@@ -3,8 +3,9 @@
 
 > Uses the GitHub API to list information and issues for a repository.
 
-
-![ezgif com-optimize](https://user-images.githubusercontent.com/39783638/65837826-48914400-e2d2-11e9-8ed7-08dcb553bd55.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39783638/65837826-48914400-e2d2-11e9-8ed7-08dcb553bd55.gif">
+</p>
 
 
 ## :information_source: How To Use
